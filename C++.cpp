@@ -2,7 +2,7 @@
 int main()
 {
     int sum = 0;
-    for (int i = 1; i <= 1780; i++) {
+    for (int i = 1; i <= 178; i++) {
         sum += i;
         std::cout << "—умма чисел от 1 до " << i << ": " << sum << std::endl;
     }
